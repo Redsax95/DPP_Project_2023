@@ -1,0 +1,5 @@
+White			1 
+Asian-Pac-Islander	2 
+Amer-Indian-Eskimo	3 
+Other			4 
+Black			5

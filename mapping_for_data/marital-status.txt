@@ -1,0 +1,7 @@
+Married-civ-spouse	1 
+Divorced		2 
+Never-married		3 
+Separated		4 
+Widowed			5 
+Married-spouse-absent	6 
+Married-AF-spouse	7
